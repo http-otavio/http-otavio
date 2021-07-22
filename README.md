@@ -2,7 +2,7 @@
   <img src = "https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width = "30%">
   <br> <br>
 
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
