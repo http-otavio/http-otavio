@@ -15,6 +15,8 @@
 
 ![Otávio Messias GitHub stats](https://github-readme-stats.vercel.app/api?username=http-otavio&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=http-otavio&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <resumo> <b> Coisas que você precisa saber sobre mim! </b> <i> (clique para expandir!) </i> </summary>
   
