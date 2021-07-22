@@ -7,19 +7,9 @@
 <!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">-->
 
 <p align="left"> 
-  🌎 Olá, meu nome é Otávio Messas. Sou <strong>Java Developer Student </strong>
+  🌎 Olá, meu nome é <strong>Otávio Messas</strong> sou <strong>Java Developer Student </strong>
 </p>
 
-<p align="left">
-  🦄 Habilidades: <strong>Java, HTML, CSS, JavaScript, MySql.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Eclipse, Intellij, Netbeans, VSCode, Figma, Trello, GitHub.</strong>
-</p>
-
-<p align="left">
-  💌 É um prazer ter você aqui no meu perfil, sinta-se a vontade para entrar em contato comigo.
 
 <br><br>  
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-messias/" alt="Linkedin">
@@ -60,11 +50,14 @@
 
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/9b29e62b29b168543808b14f61b54e7846e2a3b7/intellij_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />  
 
+  
+
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b05587ec7dc844bf5f0ad544bba8864ee8cd5edb/figma_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
      <br><br>        
 
-</p>
-  Como entrar em contato comigo: ...
+<p align="left">
+  💌 É um prazer ter você aqui no meu perfil, sinta-se a vontade para entrar em contato comigo.
+  </p>
 <p align = "center">
   
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-messias/">
@@ -74,4 +67,9 @@
   <a href="otavio.mlemos20@gmail.com">
     <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height = "30px" style = "margin: 5px;" />
   </a>
+
+<a href="https://api.whatsapp.com/send?phone=5511973722075/" >
+<img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b90c49e77a3d301ae55b8324f255573e06b01e24/whatsapp_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
+</a>
+
 </p>
