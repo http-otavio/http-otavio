@@ -3,7 +3,7 @@
   <br> <br>
   
   <samp>
-    Bem vindo ao meu GitHub, me chamo Otávio Messias, é um prazer ter você aqui! onda:
+    Bem vindo ao meu GitHub, me chamo Otávio Messias, é um prazer ter você aqui!: onda:
     <br> <br>
     Eu trabalho como Mobile: iphone: and Web: globe_with_meridians: developer!
     <br> <br>
