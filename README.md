@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **http-otavio/http-otavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<detalhes>
+<details>
   <resumo> <b> Coisas que você precisa saber sobre mim! </b> <i> (clique para expandir!) </i> </summary>
   
   <br>
