@@ -32,4 +32,41 @@
 
 ![Otávio Messias GitHub stats](https://github-readme-stats.vercel.app/api?username=http-otavio&show_icons=true&theme=radical)
 
+### <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width = "40px" /> Ferramentas e estruturas
+<p align = "center">
+  
+<img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
 
+
+<img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+       
+  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+
+  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+
+
+  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+  
+
+  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+
+
+  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+
+
+
+  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />    
+     <br><br>        
+     
+</p>
+  Como entrar em contato comigo: ...
+<p align = "center">
+  
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-messias/">
+    <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height = "35px" style = "margem: 5px;" />
+  </a>
+  
+  <a href="otavio.mlemos20@gmail.com">
+    <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height = "30px" style = "margin: 5px;" />
+  </a>
+</p>
