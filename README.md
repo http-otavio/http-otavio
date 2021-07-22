@@ -53,6 +53,12 @@
   
 
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b05587ec7dc844bf5f0ad544bba8864ee8cd5edb/figma_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
+
+  <img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+
+  <img src = "http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  
+  <img src = "https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
      <br><br>        
 
 <p align="left">
