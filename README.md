@@ -59,6 +59,8 @@
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/1b993c1a2532ccce5a3818be1b342570bf1ec5ce/eclipse_button_icon_151884.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />    
 
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/9b29e62b29b168543808b14f61b54e7846e2a3b7/intellij_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />  
+
+  <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b05587ec7dc844bf5f0ad544bba8864ee8cd5edb/figma_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
      <br><br>        
 
 </p>
