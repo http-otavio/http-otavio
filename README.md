@@ -2,7 +2,7 @@
   <img src = "https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width = "30%">
   <br> <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador http-otavio"
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador http-otavio">
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
@@ -21,7 +21,7 @@
 <p align="left">
   💌 É um prazer ter você aqui no meu perfil, sinta-se a vontade para entrar em contato comigo.
 
-  
+<br><br>  
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-messias/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/ot%C3%A1vio-messias/"/>
   </a>
