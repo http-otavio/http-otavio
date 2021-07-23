@@ -7,15 +7,11 @@
 <!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">-->
 
 <p align="left"> 
-  🌎 Olá, meu nome é <strong>Otávio Messas</strong> sou <strong>Java Developer Student </strong>
+  🌎 Olá, meu nome é <strong>Otávio Messias</strong> sou <strong>Java Developer Student </strong> atualmente estou no <strong> 4º semestre de analise e desenvolvimento de sistemas</strong> na <strong> USJT- Universidade São Judas Tadeu </strong> Tenho <strong>22 anos</strong> 
 </p>
 
-
 <br><br>  
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-messias/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/ot%C3%A1vio-messias/"/>
-  </a>
-  
+ 
   
 </p>  
 
@@ -40,8 +36,16 @@
 
   <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
 
+<img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/670439c48e649b570e9c3da44ab939127685f393/mysql_original_wordmark_logo_icon_146417.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
 
-  <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
+
+
+<img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/670439c48e649b570e9c3da44ab939127685f393/github_original_wordmark_logo_icon_146506.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
+
+
+<img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/670439c48e649b570e9c3da44ab939127685f393/git_original_wordmark_logo_icon_146510.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
+
+
 
   <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" />
 
@@ -54,11 +58,9 @@
 
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b05587ec7dc844bf5f0ad544bba8864ee8cd5edb/figma_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
 
-  <img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-
-  <img src = "http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   
-  <img src = "https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+
+  
      <br><br>        
 
 <p align="left">
