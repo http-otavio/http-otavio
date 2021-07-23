@@ -57,14 +57,10 @@
   
 
   <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b05587ec7dc844bf5f0ad544bba8864ee8cd5edb/figma_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
-
-  
-
-  
      <br><br>        
 
 <p align="left">
-  💌 É um prazer ter você aqui no meu perfil, sinta-se a vontade para entrar em contato comigo.
+  💌 <strong>É um prazer ter você aqui no meu perfil, sinta-se a vontade para entrar em contato comigo.</strong>
   </p>
 <p align = "center">
   
@@ -75,8 +71,6 @@
   <a href="mailto:otavio.mlemos20@gmail.com">
     <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height = "30px" style = "margin: 5px;" />
   </a>
-
-
 
 
 <a href="https://api.whatsapp.com/send?phone=5511973722075/" >
