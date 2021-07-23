@@ -7,7 +7,7 @@
 <!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">-->
 
 <p align="left"> 
-  🌎 Olá, meu nome é <strong>Otávio Messias</strong> sou <strong>Java Developer Student </strong> atualmente estou no <strong> 4º semestre de analise e desenvolvimento de sistemas</strong> na <strong> USJT- Universidade São Judas Tadeu </strong> Tenho <strong>22 anos</strong> 
+  🌎 Olá, meu nome é <strong>Otávio Messias</strong> sou <strong>Java Developer Student </strong> estou no <strong> 4º semestre de analise e desenvolvimento de sistemas</strong> na <strong> USJT- Universidade São Judas Tadeu </strong> Tenho <strong>22 anos</strong> 
 </p>
 
 <br><br>  
