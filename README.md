@@ -72,9 +72,12 @@
     <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height = "35px" style = "margem: 5px;" />
   </a>
   
-  <a href="otavio.mlemos20@gmail.com">
+  <a href="mailto:otavio.mlemos20@gmail.com">
     <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height = "30px" style = "margin: 5px;" />
   </a>
+
+
+
 
 <a href="https://api.whatsapp.com/send?phone=5511973722075/" >
 <img src = "https://raw.githubusercontent.com/http-otavio/http-otavio/b90c49e77a3d301ae55b8324f255573e06b01e24/whatsapp_icon.svg" height = "35px" style = "vertical-align: margem superior: 6px 4px" /> 
