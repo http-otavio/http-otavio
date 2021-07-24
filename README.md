@@ -7,7 +7,7 @@
 <!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">-->
 
 <p align="left"> 
-  🌎 Olá, meu nome é <strong>Otávio Messias</strong> sou <strong>Java Developer Student </strong> estou no <strong> 4º semestre de analise e desenvolvimento de sistemas</strong> na <strong> USJT- Universidade São Judas Tadeu </strong> Tenho <strong>22 anos</strong> 
+  🌎 Hi, my name is <strong> Otávio Messias</strong>, I'm a <strong>java developer student from Brazil</strong>, I'm in the 4th semester of <strong>systems analysis and development at USJT- Universidade São Judas Tadeu</strong> I'm <strong>22 years old</strong>, I develop on the front-end and back-end, but the <strong>focus is the back-end</strong>, I'm delving into java and I'm starting my studies with spring-boot. 
 </p>
 
 <br><br>  
@@ -60,7 +60,7 @@
      <br><br>        
 
 <p align="left">
-  💌 <strong>É um prazer ter você aqui no meu perfil, sinta-se a vontade para entrar em contato comigo.</strong>
+  💌 <strong>It's a pleasure to have you here on my profile, feel free to get in touch with me.</strong>
   </p>
 <p align = "center">
   
